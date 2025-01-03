@@ -8,8 +8,8 @@
   <!-- do_not_remove: published-with-gradle-metadata -->
   <modelVersion>4.0.0</modelVersion>
   <groupId>io.github.idoosmart</groupId>
-  <artifactId>IDoBLELib-VeryFit-2.70.2.aar</artifactId>
-  <version>2.70.2</version>
+  <artifactId>IDoBLELib-VeryFit-2.70.24.aar</artifactId>
+  <version>2.70.24</version>
   <packaging>aar</packaging>
   <build>
     <plugins>
